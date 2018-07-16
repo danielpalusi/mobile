@@ -1,0 +1,2 @@
+# mobile
+Slicing pada mobile
